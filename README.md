@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition and Attendance
 
 This workspace contains two webcam-based face recognition prototypes:
@@ -163,3 +164,7 @@ The `FaceAttendance` `.gitignore` excludes its dataset, model, and attendance ou
 - The systems do not implement liveness detection or presentation-attack defenses.
 
 See [REPORT.md](REPORT.md) for the implementation analysis, risks, and recommended next steps.
+=======
+# Face-Recognition-Attendance-System
+Face Recognition Based Attendance Management System — Internship Project
+>>>>>>> 7acd21dfb3288088bcdf8f8a1de85b1eaa447a44
