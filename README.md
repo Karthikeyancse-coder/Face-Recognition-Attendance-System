@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Face Recognition and Attendance
 
 This workspace contains two webcam-based face recognition prototypes:
@@ -167,4 +166,3 @@ See [REPORT.md](REPORT.md) for the implementation analysis, risks, and recommend
 =======
 # Face-Recognition-Attendance-System
 Face Recognition Based Attendance Management System — Internship Project
->>>>>>> 7acd21dfb3288088bcdf8f8a1de85b1eaa447a44
